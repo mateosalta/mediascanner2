@@ -2,7 +2,7 @@ Building the code
 -----------------
 
 The list of packages required to build mediascanner can be found in
-the Build-Depends stanza of the debian/control.in file.  In addition
+the Build-Depends stanza of the debian/control file.  In addition
 to those packages, you should install "qt5-default" to ensure that the
 Qt 5.x versions of build tools are used in preference to the Qt 4.x
 versions.
